@@ -1,0 +1,9 @@
+[submodule "micro-frontends"]
+	path = micro-frontends
+	url = https://github.com/ramelapa/generative-ui-microfrontend.git
+[submodule "micro-services/generative-ui-engine"]
+	path = micro-services/generative-ui-engine
+	url = https://github.com/ramelapa/generative-ui-engine.git
+[submodule "micro-services/backend-services"]
+	path = micro-services/backend-services
+	url = https://github.com/ramelapa/microservices-backend.git
